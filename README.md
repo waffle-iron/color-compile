@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/LiTianjue/color-compile.png?label=ready&title=Ready)](https://waffle.io/LiTianjue/color-compile?utm_source=badge)
 color-compile
 =============
 
